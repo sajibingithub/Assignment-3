@@ -12,6 +12,56 @@
     font-size: 50px;
 }
 
+
+/* categoris section  */
+.course-price {
+    color: #289BDE;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+
+/* buttons section  */
+.buttons{
+    background: #289BDE;
+border: 1px solid #289BDE;
+border-radius: 5px;
+color: white;
+font-weight: bold;
+padding: 13px 33px;
+}
+.buttons:hover{
+    background: #289bdec9;
+border: 1px solid #289bded5;
+border-radius: 5px;
+color: rgba(0, 0, 0, 0.555);
+}
+
+
+/* registion section  */
+.register-btn{
+    background:white;
+    border: 1px solid #289B;
+    border-radius: 5px;
+    color:#289BDE;
+    padding: 13px 33px;
+    font-weight: bold;
+
+}
+
+.register-btn:hover{
+  background-color: #289BDE;
+  color: white;
+  border: 1px solid #ffffffd5;
+}
+
+.registation-text{
+    color: white;
+}
+
+
+
+
 /* student feedback section  */
 .quote-icons {
     font-size: 60px;
