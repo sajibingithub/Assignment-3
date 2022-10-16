@@ -12,9 +12,37 @@
     font-size: 50px;
 }
 
+/* student feedback section  */
+.quote-icons {
+    font-size: 60px;
+    color: rgb(194, 189, 189);
+}
+
+.star-icons {
+    font-size: 15px;
+    color:orange;
+}
+
+.student-name{
+ font-size: 8px;
+ font-weight: bold;
+}
+
+.student-paragraph{
+ color: gray;
+}
+
+
+
+/* footer section  */
 footer h4 {
     color: white;
 }
 footer p {
     color: white;
+}
+footer i {
+    color: white;
+    font-size: large;
+    
 }
